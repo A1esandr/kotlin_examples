@@ -1,2 +1,2 @@
 # kotlin_examples
-Simple examples with Kotlin
+Simple code examples with Kotlin
