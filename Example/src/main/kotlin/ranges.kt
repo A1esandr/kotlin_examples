@@ -18,4 +18,14 @@ fun main() {
         print(i)
     }
     print(" ")
+
+    for (c in 'a'..'d') {
+        print(c)
+    }
+    print(" ")
+
+    for (c in 'z' downTo 's' step 2) {
+        print(c)
+    }
+    print(" ")
 }
